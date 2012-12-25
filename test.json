@@ -1,4 +1,4 @@
-{ 'name' : 'test'
+{ 'name' : 'test',
   'description' : 'Testing',
   'contents' : 'Ignore'
 }
